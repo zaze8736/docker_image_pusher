@@ -1,3 +1,4 @@
 selenium/hub
 appium/appium
 halimqarroum/docker-android:api-32
+budtmo/docker-android:emulator_11.0
